@@ -24,3 +24,5 @@ E.g
 SELECT ABC
 WHERE A>B
 ```
+### Visualization 
+<img width="4800" height="3200" alt="_GPO4034" src="https://github.com/user-attachments/assets/1c7eb3b9-27b3-4f3e-8131-280a20d5ec77" />

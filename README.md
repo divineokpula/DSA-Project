@@ -19,3 +19,8 @@ This documentation will enable us to make better decisions and tell a compelling
    -This is where the work gets started [Click here](https://www.microsoft.com)
   
 - Power BI
+E.g
+```
+SELECT ABC
+WHERE A>B
+```
